@@ -72,7 +72,7 @@
 在 pages 的自定义域里面，绑定 cloudflare 中存在的域名，在 cloudflare 托管的域名，自动会修改 dns 记录
 ![2](https://telegraph-image.pages.dev/file/29546e3a7465a01281ee2.png)
 
-### 开启图片审查
+### 开启图片审查(暂不可用)
 
 1.请前往https://moderatecontent.com/ 注册并获得一个免费的用于审查图像内容的 API key
 
